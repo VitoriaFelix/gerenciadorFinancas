@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img alt="Funcionamento da aplicação" src="https://github.com/VitoriaFelix/agendamentoBarbearia/blob/main/app/src/assets/appGif.gif.gif" width="30%" height="20%">
+  <img alt="Funcionamento da aplicação" src="https://github.com/VitoriaFelix/gerenciadorFinancas/blob/main/src/assets/gif.gif" width="30%" height="20%">
 </p>
 
 
